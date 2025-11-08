@@ -9,6 +9,12 @@ const b =()=>{
     return '5'
 
 }
+
 const e=()=>{
     alert("e")
+
+const c=()=>{
+
+console.log("log function c")
+
 }

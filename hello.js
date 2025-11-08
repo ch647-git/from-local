@@ -12,4 +12,10 @@ const b =()=>{
 
 const d =()=>{
     confirm ("are you sure?")
+
+}
+const c=()=>{
+
+console.log("log function c")
+
 }
